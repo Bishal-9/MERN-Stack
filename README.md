@@ -1,4 +1,5 @@
 Basic MERN Stack App
+
 Front-End - React + Redux
 Back-End - Node.js, Express.js & MongoDB
 
